@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<h1 align="center"><img height="60" src="https://media.giphy.com/media/C4xJKyzipe50gY6yql/giphy.gif"/> Hello There! <!--👋--> <img height="60" src="https://media.giphy.com/media/C4xJKyzipe50gY6yql/giphy.gif"/> </h1>
-
 <!--BIO-->
 My name is `Muhammad Rasyid Ridho`. I’m `17 years old`. I live in `East Java, Indonesia`, 
 
