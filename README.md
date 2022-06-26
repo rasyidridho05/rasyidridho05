@@ -5,7 +5,7 @@ My name is `Muhammad Rasyid Ridho`. I’m `17 years old`. I live in `East Java, 
 
 I'm a `student at Telkom Malang Vocational High School`
 
-## 🌱 I’m currently learning UI/UX Design, Web, Android.
+🌱 I’m currently learning UI/UX Design, Web, Android.
 
 ## My statistics 📈 <br>
 ![](https://github-readme-stats.vercel.app/api?username=rasyid15&show_icons=true&theme=github_dark)
