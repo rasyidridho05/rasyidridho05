@@ -12,11 +12,13 @@ I'm a `student at Telkom Malang Vocational High School`
 🌱 I’m currently learning UI/UX Design, Web, Android.
 
 ## My statistics 📈 <br>
-![](https://github-readme-stats.vercel.app/api?username=rasyid15&show_icons=true&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rasyid15&theme=github_dark)
-
-![](https://activity-graph.herokuapp.com/graph?username=rasyid15&theme=react-dark)
+<p align="left">
+<a href="https://github.com/rasyid15">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasyid15&show_icons=true&theme=github_dark/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rasyid15&theme=github_dark"/>
+</a>
+</p>
+                                                                                                                                         
 
 ## Contact me 📫:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:rasyid.rdh05@gmail.com)](mailto:rasyid.rdh@gmail.com)
