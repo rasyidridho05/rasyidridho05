@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+
+  
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'am Inkra Andini! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
 <!--BIO-->
 My name is `Muhammad Rasyid Ridho`. I’m `17 years old`. I live in `East Java, Indonesia`, 
