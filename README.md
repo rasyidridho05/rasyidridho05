@@ -4,10 +4,12 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-<!--BIO-->
-My name is `Muhammad Rasyid Ridho`. I’m `17 years old`. I live in `East Java, Indonesia`, 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasyid15&label=Profile%20views&color=05122A&style=flat" alt="rasyid15" /> </p>
 
-I'm a `student at Telkom Malang Vocational High School`
+<!--BIO-->
+🔭 My name is `Muhammad Rasyid Ridho`. I’m `17 years old`. I live in `East Java, Indonesia`, 
+
+🏫 I'm a `student at Telkom Malang Vocational High School`
 
 🌱 I’m currently learning UI/UX Design, Web, Android.
 
