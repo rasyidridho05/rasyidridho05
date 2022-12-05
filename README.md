@@ -13,8 +13,8 @@
 🌱 I’m currently learning UI/UX Design, Web.
 
 ## My statistics 📈 <br>
-![](https://github-readme-stats.vercel.app/api?username=rasyid15&show_icons=true&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rasyid15&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=TDR-3000&show_icons=true&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TDR-3000&theme=github_dark)
 
 ![](https://activity-graph.herokuapp.com/graph?username=rasyid15&theme=react-dark)
                                                                                                                                          
