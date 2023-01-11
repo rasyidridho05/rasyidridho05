@@ -10,7 +10,7 @@
 
 🏫 I'm a `student at Telkom Malang Vocational High School`
 
-🌱 I’m currently learning UI/UX Design, Web.
+🌱 I’m currently learning UI/UX Design, Nodejs, Reactjs and Nextjs.
 
 ## My statistics 📈 <br>
 ![](https://github-readme-stats.vercel.app/api?username=rasyid15&show_icons=true&theme=github_dark)
