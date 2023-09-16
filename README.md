@@ -7,17 +7,17 @@
 <a href="https://www.youtube.com"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!--BIO-->
-🔭 My name is `Muhammad Rasyid Ridho`. I’m `17 years old`. I live in `East Java, Indonesia`, 
+🔭 My name is `Muhammad Rasyid Ridho`. I’m `18 years old`. I live in `East Java, Indonesia`, 
 
 🏫 I'm a `student at Telkom Malang Vocational High School`
 
 🌱 I’m currently learning UI/UX Design, TailwindCSS, Nodejs, Reactjs and Nextjs.
 
 ## My statistics 📈 <br>
-![](https://github-readme-stats.vercel.app/api?username=rasyid15&show_icons=true&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rasyid15&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=rasyidridho05&show_icons=true&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rasyidridho05&theme=github_dark)
 
-![](https://activity-graph.herokuapp.com/graph?username=rasyid15&theme=react-dark)
+![](https://activity-graph.herokuapp.com/graph?username=rasyidridho05&theme=react-dark)
                                                                                                                                          
                                                                                                     
 <a href="https://www.youtube.com"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
