@@ -7,9 +7,9 @@
 <a href="https://www.youtube.com"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!--BIO-->
-🔭 My name is `Muhammad Rasyid Ridho`. I’m `18 years old`. I live in `East Java, Indonesia`, 
+🔭 My name is `Muhammad Rasyid Ridho`. I’m `19 years old`. I live in `East Java, Indonesia`, 
 
-🏫 I'm a `student at Telkom Malang Vocational High School`
+🏫 I'm a `student at Telkom University`
 
 🌱 I’m currently learning UI/UX Design, TailwindCSS, Nodejs, Reactjs and Nextjs.
 
@@ -28,7 +28,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rasyidrdh05/)](https://www.linkedin.com/in/rasyidrdh05/)
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Muhammad Rasyid Ridho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-rasyid-ridho-68a111235/)](https://www.linkedin.com/in/muhammad-rasyid-ridho-68a111235/) -->
 
-<h5 align="center">Made With ❤️ by Me</h5>
+<h5 align="center">Made With ❤️ by <a href="https://rasyidridho.my.id">Me</a> </h5>
 
 <!--
 **rasyid15/rasyid15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
