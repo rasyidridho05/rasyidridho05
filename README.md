@@ -9,7 +9,7 @@
 <!--BIO-->
 🔭 My name is `Muhammad Rasyid Ridho`. I’m `19 years old`. I live in `East Java, Indonesia`, 
 
-🏫 I'm a `student at Telkom University`
+🏫 I'm a `student at Telkom Malang Vocational High School`
 
 🌱 I’m currently learning UI/UX Design, TailwindCSS, Nodejs, Reactjs and Nextjs.
 
