@@ -16,6 +16,7 @@
 ## My statistics 📈 <br>
 ![](https://github-readme-stats.vercel.app/api?username=rasyidridho05&show_icons=true&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rasyidridho05&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rasyidridho053&show_icons=true&theme=github_dark)
 
 ![](https://activity-graph.herokuapp.com/graph?username=rasyidridho05&theme=react-dark)
                                                                                                                                          
