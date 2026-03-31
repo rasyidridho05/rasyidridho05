@@ -7,11 +7,11 @@
 <a href="https://www.youtube.com"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!--BIO-->
-🔭 My name is `Muhammad Rasyid Ridho`. I’m `19 years old`. I live in `East Java, Indonesia`, 
+🔭 My name is `Muhammad Rasyid Ridho`. I’m `20 years old`. I live in `East Java, Indonesia`, 
 
-🏫 I'm a `student at Telkom University`
+🏫 I'm `student at Telkom University`
 
-🌱 I’m currently learning UI/UX Design, TailwindCSS, Nodejs, Reactjs and Nextjs.
+🌱 I’m currently learning UI/UX Design, and Web Development.
 
 ## My statistics 📈 <br>
 ![](https://github-readme-stats.vercel.app/api?username=rasyidridho05&show_icons=true&theme=github_dark)
